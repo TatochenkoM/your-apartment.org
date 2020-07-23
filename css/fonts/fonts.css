@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Qanelas-Light';
+    src: url('Qanelas-Light.eot');
+    src: url('../fonts/Qanelas-Light.ttf') format('truetype');
+    }
+@font-face {
+        font-family: 'Qanelas-Regular';
+        src: url('Qanelas-Regular.eot');
+        src:url('../fonts/Qanelas-Regular.ttf') format('truetype');
+        }
+@font-face {
+            font-family: 'Qanelas-Medium';
+            src: url('Qanelas-Medium.eot');
+            src: url('../fonts/Qanelas-Medium.ttf') format('truetype');
+            }
+@font-face {
+                font-family: 'Qanelas-Bold';
+                src: url('../fonts/Qanelas-Bold.eot');
+                src: url('../fonts/Qanelas-Bold.ttf') format('truetype');
+                }
+@font-face {
+             font-family: 'Futura-Bold';
+             src: url('../fonts/futura-bold.eot'); /* IE 9 Compatibility Mode */
+             src: url('../fonts/futura-bold.ttf') format('truetype'); /* Safari, Android, iOS */
+}
